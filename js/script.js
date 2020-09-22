@@ -196,7 +196,7 @@ window.addEventListener("DOMContentLoaded", () => {
     new Menu(
         "img/tabs/elite.jpg",
         "elite",
-        "Premium men",
+        "Premium menu",
         'In the "Premium" menu, we use not only beautiful packaging design, but also high-quality execution of dishes. Red fish, seafood, fruits - restaurant menu without going to the restaurant!',
         21,
         ".menu .container",
